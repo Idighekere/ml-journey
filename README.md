@@ -1,3 +1,6 @@
+> [!NOTE]
+> **This repo is archived.** Content has moved to [core-skills](https://github.com/Idighekere/core-skills) — the ML notebooks, CSVs, and concept notes live there now.
+
 # ml-journey
 
 ML implementations, experiments, and projects built as I work toward applied machine learning.
